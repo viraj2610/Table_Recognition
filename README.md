@@ -1,3 +1,3 @@
 # Table_Recognition
 
-This project will predict the table from pdf documents.
+This project will recognize the table from pdf documents.
